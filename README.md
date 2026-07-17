@@ -1,53 +1,14 @@
-## Hi there 👋
-![Crystallang](https://img.shields.io/badge/Crystallang-000?style=for-the-badge&logo=crystal&logoColor=white)
-![Eclipseceylon](https://img.shields.io/badge/Eclipseceylon-AB710A?style=for-the-badge&logo=ceylon&logoColor=white)
-![Carbon Language](https://img.shields.io/badge/Carbon%20Language-000000?style=for-the-badge&logo=carbon&logoColor=white)
-![Antdesign](https://img.shields.io/badge/Antdesign-0073bb?style=for-the-badge&logo=antdesign&logoColor=white)
-![Arm 64](https://img.shields.io/badge/Arm%2064-16358C?style=for-the-badge&logo=aarch64&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Elexirlang](https://img.shields.io/badge/Elexirlang-380A4D?style=for-the-badge&logo=elixir&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5E5185?style=for-the-badge&logo=haskell&logoColor=white)
-![Jupyternotebook](https://img.shields.io/badge/Jupyternotebook-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Mystructuredquerylanguage](https://img.shields.io/badge/Mystructuredquerylanguage-00618a?style=for-the-badge&logo=mysql&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node%20JS-5fa04e?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vyperlang](https://img.shields.io/badge/Vyperlang-9F4CF2?style=for-the-badge&logo=vyper&logoColor=white)
-![Scalalang](https://img.shields.io/badge/Scalalang-de3423?style=for-the-badge&logo=scala&logoColor=white)
-![Backbone JS](https://img.shields.io/badge/Backbone%20JS-002A41?style=for-the-badge&logo=backbonejs&logoColor=white)
-![Babylon. JS](https://img.shields.io/badge/Babylon.%20JS-bb464b?style=for-the-badge&logo=babylonjs&logoColor=white)
-![A Frame](https://img.shields.io/badge/A%20Frame-ee295f?style=for-the-badge&logo=aframe&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-5c2d91?style=for-the-badge&logo=blazor&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=white)
-![Bulma CSS](https://img.shields.io/badge/Bulma%20CSS-00d1b2?style=for-the-badge&logo=bulma&logoColor=white)
-![.netcore](https://img.shields.io/badge/.netcore-623697?style=for-the-badge&logo=dotnet&logoColor=white)
-![Core JS](https://img.shields.io/badge/Core%20JS-000000?style=for-the-badge&logo=corejs&logoColor=white)
-![Dotnet](https://img.shields.io/badge/Dotnet-1384c8?style=for-the-badge&logo=dot-net&logoColor=white)
-![Gatsby JS](https://img.shields.io/badge/Gatsby%20JS-64328B?style=for-the-badge&logo=gatsby&logoColor=white)
-![Gatling](https://img.shields.io/badge/Gatling-f78557?style=for-the-badge&logo=gatling&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white)
-![Laravel Lumen](https://img.shields.io/badge/Laravel%20Lumen-e54537?style=for-the-badge&logo=lumen&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-fc801d?style=for-the-badge&logo=ktor&logoColor=white)
-![Jeet](https://img.shields.io/badge/Jeet-FF664A?style=for-the-badge&logo=jeet&logoColor=white)
-![Post CSS](https://img.shields.io/badge/Post%20CSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-009fe3?style=for-the-badge&logo=pytest&logoColor=white)
-![Digitalocean](https://img.shields.io/badge/Digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Firebird](https://img.shields.io/badge/Firebird-f4790e?style=for-the-badge&logo=firebird&logoColor=white)
-![Neo 4j](https://img.shields.io/badge/Neo%204j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
-![Mongodb](https://img.shields.io/badge/Mongodb-4FAA41?style=for-the-badge&logo=mongodb&logoColor=white)
-![Fauna](https://img.shields.io/badge/Fauna-3A1AB6?style=for-the-badge&logo=faunadb&logoColor=white)
-![Datagrip](https://img.shields.io/badge/Datagrip-21d789?style=for-the-badge&logo=datagrip&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-ea9344?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-112B49?style=for-the-badge&logo=apollographql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-019bc6?style=for-the-badge&logo=docker&logoColor=white)
-![Googlecloud](https://img.shields.io/badge/Googlecloud-557ebf?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Atlassiantrello](https://img.shields.io/badge/Atlassiantrello-0052cc?style=for-the-badge&logo=trello&logoColor=white)
-![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-FF6A00?style=for-the-badge&logo=fusion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-f58113?style=for-the-badge&logo=gazebo&logoColor=white)
-![Autodesk 3ds Max](https://img.shields.io/badge/Autodesk%203ds%20Max-37a5cc?style=for-the-badge&logo=threedsmax&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-8c0000?style=for-the-badge&logo=spyder&logoColor=white)
-![Googlecolaboratory](https://img.shields.io/badge/Googlecolaboratory-ffb300?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Apachespark](https://img.shields.io/badge/Apachespark-e15919?style=for-the-badge&logo=apachespark&logoColor=white)
-![Forgejo](https://img.shields.io/badge/Forgejo-FF5500?style=for-the-badge&logo=forgejo&logoColor=white)
-![Jira Align](https://img.shields.io/badge/Jira%20Align-2684FF?style=for-the-badge&logo=jiraalign&logoColor=white)
+# Hi 👋, I'm developer
+
+A passionate developer building great things.
+
+## 📊 GitHub Stats:
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=developer&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=developer&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer&theme=radical&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+<!-- ![](https://komarev.com/ghpvc/?username=developer&icon=3&color=1) -->
