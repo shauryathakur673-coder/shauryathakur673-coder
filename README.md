@@ -20,6 +20,7 @@ hello
 ![](https://streak-stats.demolab.com/?user=thakurshaurya&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thakurshaurya&theme=radical&include_all_commits=true&count_private=true&layout=compact)
 </div>
+##
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=thakurshaurya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
