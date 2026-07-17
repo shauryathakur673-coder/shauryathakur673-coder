@@ -1,8 +1,6 @@
 # Hi 👋, I'm thakurshaurya
 hello
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thakurshaurya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.shaurya7._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-thakur-880912327)
 ## 💻 Tech Stack:
