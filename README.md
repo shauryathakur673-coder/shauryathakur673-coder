@@ -17,9 +17,13 @@ hello
 ![Leetcode](https://img.shields.io/badge/Leetcode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white)
 ## 📊 GitHub Stats:
 <div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=thakurshaurya&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=thakurshaurya&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thakurshaurya&theme=radical&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thakurshaurya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
