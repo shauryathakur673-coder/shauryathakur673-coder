@@ -1,6 +1,8 @@
 # Hi 👋, I'm thakurshaurya
 hello
-## 🌐 Socials:
+## 🌐 Socials:<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thakurshaurya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.shaurya7._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-thakur-880912327)
 ## 💻 Tech Stack:
 ![Vala](https://img.shields.io/badge/Vala-a56de2?style=for-the-badge&logo=vala&logoColor=white)
@@ -20,7 +22,5 @@ hello
 ![](https://streak-stats.demolab.com/?user=thakurshaurya&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thakurshaurya&theme=radical&include_all_commits=true&count_private=true&layout=compact)
 </div>
-##
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thakurshaurya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+
+
